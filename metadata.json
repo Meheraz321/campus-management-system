@@ -1,0 +1,6 @@
+{
+  "name": "Campus Management System - Study Portal",
+  "description": "Comprehensive Campus Management Platform & Digital Study Portal for Students, Teachers, and Faculty with Lecture Notes, Video Classes, Routine, Attendance & Results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
